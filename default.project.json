@@ -1,0 +1,20 @@
+{
+  "name": "pixelate",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "Pixelate": {
+        "$className": "Folder",
+
+        "Plugin": {
+          "Libs": {
+            "$path": "Packages"
+          },
+
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
