@@ -1,5 +1,5 @@
 {
-  "name": "pixelate",
+  "name": "pixelate-plugin",
   "tree": {
     "$className": "DataModel",
 
